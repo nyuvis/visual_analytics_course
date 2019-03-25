@@ -1,14 +1,12 @@
-# text_vis_lab
+# text_vis_lab & assignment
 
 ### Background
 
-We have learned basic text processing method in class, check the material 
-
-here. 
+We have learned basic text processing method in class, check the  `in_class` folder for code and slides.
 
 In this assignment, we are going to use a data set from Vox News, including articles before March, 2017. 
 
-Please download [the Vox article dataset]( `https://data.world/elenadata/vox-articles` ). You will get the data file named as `dsjVoxArticles.tsv`.
+Please download [the Vox article dataset]( `https://data.world/elenadata/vox-articles` ). You will get a data file named as `dsjVoxArticles.tsv`.
 
 The text data from this data set are collected from original web pages. So there are some html tags . 
 
