@@ -1,6 +1,6 @@
 ## Visual Analytics 2019 Spring
 
-All the slides can be found in [this shared folder](https://drive.google.com/open?id=1WvE8Orcuw8lSn2Md1boVKB-tuKXWgskiyhlvkutXJj8).
+All the slides can be found in [this shared folder](https://drive.google.com/drive/folders/1IjkadJiwqx8x4nwSvm7ZmxdkhYIvhIZI?usp=sharing).
 
 ### Schedules and Labs
 
