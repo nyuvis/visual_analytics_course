@@ -12,7 +12,7 @@ To process web data (remove html tags), we could use functions provided by `Beau
 
 ### Tasks
 
-##### Task 1: Document to Vector
+#### Task 1: Document to Vector
 
 To transform documents into vectors, you should first 
 
@@ -20,25 +20,25 @@ To transform documents into vectors, you should first
 - stemming/lemmatization. You can still use the lemmatization functions we tried in class, but lemmatization may be too time consuming for this data set. You can use stemming instead. Check documents of `gensim` to learn more about the stemming functions.
 - remove stop words
 
-##### Task 2: Topic Modelling
+#### Task 2: Topic Modelling
 
 Create 30 topics using LDA. You can make it faster by setting only `corpus`, `id2word`, and `num_topics`, and leaving others the default.
 
-##### Task 3: Generate Topic Vectors
+####  Task 3: Generate Topic Vectors
 
 Create a topic vector for each document. As required above, you should have created 30 topics. So you should generate a 30-dimensional vector for each document. A value `v`  at the `i`th dimension of the topic vector(`t_v`) for a document `x` (t_v[i]=a), means the document `x` has a probability of `a` to be related to the `i`th topic.
 
 If you use `gensim`, you can get the topic distribution for the given document by using the function`get_document_topics` after you generate the LDA model.
 
-##### Task 4: Project Topic Vectors
+#### Task 4: Project Topic Vectors
 
 Run a dimension reduction algorithm to map the topic vectors into 2D space and plot the vectors.
 
-##### Task 5: Color the Clusters
+#### Task 5: Color the Clusters
 
 Choose a clustering method you like to generate some meaningful clusters. Plot the projection again with the clusters in different colors.
 
-##### Task 6: Plot the distribution of topics
+#### Task 6: Plot the distribution of topics
 
 Generate a static visualization to answer the question: how many documents are related to each topic?
 
