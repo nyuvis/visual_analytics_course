@@ -6,7 +6,7 @@ We have learned how to process text and high dimensional data in class. You can 
 
 In this assignment, we are going to use a data set from Vox News, including articles before March 2017. 
 
-Please download [sampled Vox article dataset]( `https://drive.google.com/file/d/15mRCO7_NJQ_ETRXn8GufYNGwEN8MRFiP/view?usp=sharing` ) first. This dataset is generated is generated from [the Vox article dataset]( `https://data.world/elenadata/vox-articles` ) which is collected from original web pages. So there are still many html tags . 
+Please download [sampled Vox article dataset]( https://drive.google.com/file/d/15mRCO7_NJQ_ETRXn8GufYNGwEN8MRFiP/view?usp=sharing ) first. This dataset is generated is generated from [the Vox article dataset]( https://data.world/elenadata/vox-articles) which is collected from original web pages. So there are still many html tags . 
 
 To process web data (remove html tags), we could use functions provided by `Beautiful Soup` libarary. You do not need to do this pre-processing step. The provided data set is clean and contains only 30% of the original data. All the processing steps can be found in the `VoxDataPrepare.ipynb`. 
 
