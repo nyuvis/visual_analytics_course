@@ -10,5 +10,5 @@ All the slides can be found in [this shared folder](https://drive.google.com/dri
 
 04/04: [High-Dimensional Visualization](<https://github.com/nyuvis/visual_analytics_course/tree/master/hd_vis_lab>)
 
-
+04/18: [Spatiotemporal Visualization](<https://github.com/nyuvis/visual_analytics_course/tree/master/spatiotemporal_vis_lab>)
 
