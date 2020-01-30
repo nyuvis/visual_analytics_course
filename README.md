@@ -1,14 +1,36 @@
-## Visual Analytics 2019 Spring
+## LARGE-SCALE VISUAL ANALYTICS (CS-GY 6323) 2020 Spring
 
-All the slides can be found in [this shared folder](https://drive.google.com/drive/folders/1IjkadJiwqx8x4nwSvm7ZmxdkhYIvhIZI?usp=sharing).
+This is the github page for the labs and assignments covered by visual analytic (CS-GY 6323). 
 
-### Schedules and Labs
+## General Information
 
-03/07: [D3.js Multiple view interaction](<https://github.com/CristianFelix/design-app-tutorial>)
+[Syllabus](https://docs.google.com/document/d/1iW3myLJUXqfOTKBdMSiO8fIGCb1TxJq1yEj0DgTE44Y/edit?usp=sharing)
 
-03/14: [Text Visualization](<https://github.com/nyuvis/visual_analytics_course/tree/master/text_vis_lab>)
+[Reading list]()
 
-04/04: [High-Dimensional Visualization](<https://github.com/nyuvis/visual_analytics_course/tree/master/hd_vis_lab>)
+##### Instructor
 
-04/18: [Spatiotemporal Visualization](<https://github.com/nyuvis/visual_analytics_course/tree/master/spatiotemporal_vis_lab>)
+Prof. Enrico Bertini
+
+370 Jay, Rm 1154
+
+Phone: 646 997 3731
+
+enrico.bertini@nyu.edu
+
+Office hours: Thu 6:00 pm, or by appointment on Fri.
+
+##### TA for labs
+
+Jun Yuan
+
+Contact: junyuan@nyu.edu
+
+For help with labs and projects, reach out via email.
+
+## Labs and Slides
+
+01/30: [Instruction to Jupyter](https://docs.google.com/presentation/d/1Jqb5S6pQGkReVEJdJLrvOud_iT2w7oveLxHO4RgHduo/edit?usp=sharing) ([pdf](https://github.com/nyuvis/visual_analytics_course/blob/master/labs/lab1_Jupyter/Intro2Jupyter.pdf))
+
+## Assignments
 
