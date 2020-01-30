@@ -30,7 +30,7 @@ For help with labs and projects, reach out via email.
 
 ## Labs and Slides
 
-01/30: [Instruction to Jupyter](https://docs.google.com/presentation/d/1Jqb5S6pQGkReVEJdJLrvOud_iT2w7oveLxHO4RgHduo/edit?usp=sharing) ([pdf](https://github.com/nyuvis/visual_analytics_course/blob/master/labs/lab1_Jupyter/Intro2Jupyter.pdf))
+01/30: [Introduction to Jupyter](https://docs.google.com/presentation/d/1Jqb5S6pQGkReVEJdJLrvOud_iT2w7oveLxHO4RgHduo/edit?usp=sharing) ([pdf](https://github.com/nyuvis/visual_analytics_course/blob/master/labs/lab1_Jupyter/Intro2Jupyter.pdf))
 
 ## Assignments
 
