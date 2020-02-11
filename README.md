@@ -28,6 +28,11 @@ Contact: junyuan@nyu.edu
 
 For help with labs and projects, reach out via email.
 
+## Lecture Slides
+01/30: [What is Visual Analytics?](https://docs.google.com/presentation/d/1cOCapZ-CSJaRaKtbji6u5u1yWyfNXIv-kJd0Qhajcbw/edit?usp=sharing)
+
+02/06: [Analytical Processes](https://docs.google.com/presentation/d/1qnQQZAtTa6G5govAL9itfhJfhscc0_VfQonOGObhqkQ/edit?usp=sharing)
+
 ## Labs and Slides
 
 01/30: [Introduction to Jupyter](https://docs.google.com/presentation/d/1Jqb5S6pQGkReVEJdJLrvOud_iT2w7oveLxHO4RgHduo/edit?usp=sharing) ([pdf](https://github.com/nyuvis/visual_analytics_course/blob/master/labs/lab1_Jupyter/Intro2Jupyter.pdf))
