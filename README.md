@@ -35,7 +35,9 @@ For help with labs and projects, reach out via email.
 
 ## Labs and Slides
 
-01/30: [Introduction to Jupyter](https://docs.google.com/presentation/d/1Jqb5S6pQGkReVEJdJLrvOud_iT2w7oveLxHO4RgHduo/edit?usp=sharing) ([pdf](https://github.com/nyuvis/visual_analytics_course/blob/master/labs/lab1_Jupyter/Intro2Jupyter.pdf))
+01/30: [Introduction to Jupyter](https://docs.google.com/presentation/d/1UgrUyqodXVgMDz6NpCQ4RD0ceeC41kLsV_pIN1qlTuk/edit?usp=sharing) ([pdf](https://github.com/nyuvis/visual_analytics_course/blob/master/labs/lab1_Jupyter/Intro2Jupyter.pdf))
+
+02/20: [Preprocessing for Visualization](https://docs.google.com/presentation/d/1Bzn1Y_seyh4VvMRSfxQAuskR-TSKB0tINR4u_9d6xho/edit?usp=sharing)([pdf](https://github.com/nyuvis/visual_analytics_course/blob/master/labs/lab2_Preprocessing/Preprocessing4Vis.pdf))
 
 ## Assignments and Due Dates
 
