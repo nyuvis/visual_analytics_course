@@ -39,6 +39,8 @@ For help with labs and projects, reach out via email.
 
 02/20: [Preprocessing for Visualization](https://docs.google.com/presentation/d/1Bzn1Y_seyh4VvMRSfxQAuskR-TSKB0tINR4u_9d6xho/edit?usp=sharing)([pdf](https://github.com/nyuvis/visual_analytics_course/blob/master/labs/lab2_Preprocessing/Preprocessing4Vis.pdf))
 
+02/27: [Visualization with Altair](https://docs.google.com/presentation/d/1L0d4HAdFDIPSbcU7mUlmuxASq-HcVWeTxN426rNR8Bo/edit?usp=sharing)
+
 ## Assignments and Due Dates
 
 - [Intro2Jupyter](https://github.com/nyuvis/visual_analytics_course/tree/master/assignment/assignment1_intro2Jupyter) (Due: 02/10 night)
