@@ -41,6 +41,8 @@ For help with labs and projects, reach out via email.
 
 02/27: [Visualization with Altair](https://docs.google.com/presentation/d/1L0d4HAdFDIPSbcU7mUlmuxASq-HcVWeTxN426rNR8Bo/edit?usp=sharing)
 
+03/05: Map Visualization\([notebook](https://github.com/nyuvis/visual_analytics_course/blob/master/labs/lab4_map/maps.ipynb))
+
 ## Assignments and Due Dates
 
 - [Intro2Jupyter](https://github.com/nyuvis/visual_analytics_course/tree/master/assignment/assignment1_intro2Jupyter) (Due: 02/10 night)
