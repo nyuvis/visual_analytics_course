@@ -37,11 +37,11 @@ For help with labs and projects, reach out via email.
 
 01/30: [Introduction to Jupyter](https://docs.google.com/presentation/d/1UgrUyqodXVgMDz6NpCQ4RD0ceeC41kLsV_pIN1qlTuk/edit?usp=sharing) ([pdf](https://github.com/nyuvis/visual_analytics_course/blob/master/labs/lab1_Jupyter/Intro2Jupyter.pdf))
 
-02/20: [Preprocessing for Visualization](https://docs.google.com/presentation/d/1Bzn1Y_seyh4VvMRSfxQAuskR-TSKB0tINR4u_9d6xho/edit?usp=sharing)([pdf](https://github.com/nyuvis/visual_analytics_course/blob/master/labs/lab2_Preprocessing/Preprocessing4Vis.pdf))
+02/20: [Preprocessing for Visualization](https://docs.google.com/presentation/d/1Bzn1Y_seyh4VvMRSfxQAuskR-TSKB0tINR4u_9d6xho/edit?usp=sharing) ([pdf](https://github.com/nyuvis/visual_analytics_course/blob/master/labs/lab2_Preprocessing/Preprocessing4Vis.pdf))
 
 02/27: [Visualization with Altair](https://docs.google.com/presentation/d/1L0d4HAdFDIPSbcU7mUlmuxASq-HcVWeTxN426rNR8Bo/edit?usp=sharing)
 
-03/05: Map Visualization\([notebook](https://github.com/nyuvis/visual_analytics_course/blob/master/labs/lab4_map/maps.ipynb))
+03/05: [Map Visualization](https://docs.google.com/presentation/d/1ky29RvALISD6L-ajeTJB-qKxtNzSWZSMllRV3uW0l8c/edit?usp=sharing) \([notebook](https://github.com/nyuvis/visual_analytics_course/blob/master/labs/lab4_map/maps.ipynb))
 
 ## Assignments and Due Dates
 
