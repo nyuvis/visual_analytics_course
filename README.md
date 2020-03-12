@@ -43,6 +43,8 @@ For help with labs and projects, reach out via email.
 
 03/05: [Map Visualization](https://docs.google.com/presentation/d/1ky29RvALISD6L-ajeTJB-qKxtNzSWZSMllRV3uW0l8c/edit?usp=sharing) \([notebook](https://github.com/nyuvis/visual_analytics_course/blob/master/labs/lab4_map/maps.ipynb))
 
+03/12: Temporal Data Visualization ([notebook](https://github.com/nyuvis/visual_analytics_course/blob/master/labs/lab5_temporal/TemporalDataVis-InClass.ipynb))
+
 ## Assignments and Due Dates
 
 - [Intro2Jupyter](https://github.com/nyuvis/visual_analytics_course/tree/master/assignment/assignment1_intro2Jupyter) (Due: 02/10 night)
