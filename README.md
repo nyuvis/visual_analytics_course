@@ -45,6 +45,8 @@ For help with labs and projects, reach out via email.
 
 03/12: Temporal Data Visualization ([in-class notebook](https://github.com/nyuvis/visual_analytics_course/blob/master/labs/lab5_temporal/TemporalDataVis-InClass.ipynb))([complete notebook](https://github.com/nyuvis/visual_analytics_course/blob/master/labs/lab5_temporal/TemporalDataVis-Complete.ipynb))([data](https://drive.google.com/open?id=1KPkLg2XaXdvDbZTteGAdB7_88bG0mid1))
 
+03/26: Statistics Visualization ([in-class notebook](https://github.com/nyuvis/visual_analytics_course/blob/master/labs/lab6_statistics/statistics_vis_inclass.ipynb))([data](https://data.cityofnewyork.us/Health/DOHMH-New-York-City-Restaurant-Inspection-Results/43nn-pn8j))
+
 ## Assignments and Due Dates
 
 - [Intro2Jupyter](https://github.com/nyuvis/visual_analytics_course/tree/master/assignment/assignment1_intro2Jupyter) (Due: 02/10 night)
