@@ -33,6 +33,8 @@ For help with labs and projects, reach out via email.
 
 02/06: [Analytical Processes](https://docs.google.com/presentation/d/1qnQQZAtTa6G5govAL9itfhJfhscc0_VfQonOGObhqkQ/edit?usp=sharing)
 
+... (adding soon)
+
 ## Labs and Slides
 
 01/30: [Introduction to Jupyter](https://docs.google.com/presentation/d/1UgrUyqodXVgMDz6NpCQ4RD0ceeC41kLsV_pIN1qlTuk/edit?usp=sharing) ([pdf](https://github.com/nyuvis/visual_analytics_course/blob/master/labs/lab1_Jupyter/Intro2Jupyter.pdf))
@@ -47,6 +49,4 @@ For help with labs and projects, reach out via email.
 
 03/26: Statistics Visualization ([in-class notebook](https://github.com/nyuvis/visual_analytics_course/blob/master/labs/lab6_statistics/statistics_vis_inclass.ipynb))([data](https://data.cityofnewyork.us/Health/DOHMH-New-York-City-Restaurant-Inspection-Results/43nn-pn8j))
 
-## Assignments and Due Dates
-
-- [Intro2Jupyter](https://github.com/nyuvis/visual_analytics_course/tree/master/assignment/assignment1_intro2Jupyter) (Due: 02/10 night)
+04/09: [High Dimensional Data Visualization](https://docs.google.com/presentation/d/1qVnco0JfMlUJsA6NU3nm3DqybTutU17Gnu9UVaL0E4g/edit?usp=sharing) ([in-class notebook](https://github.com/nyuvis/visual_analytics_course/blob/master/labs/lab7_high_dimension/hd_vis_inClass.ipynb))([data](https://archive.ics.uci.edu/ml/datasets/Communities+and+Crime))
