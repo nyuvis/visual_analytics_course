@@ -49,4 +49,4 @@ For help with labs and projects, reach out via email.
 
 03/26: Statistics Visualization ([in-class notebook](https://github.com/nyuvis/visual_analytics_course/blob/master/labs/lab6_statistics/statistics_vis_inclass.ipynb))([data](https://data.cityofnewyork.us/Health/DOHMH-New-York-City-Restaurant-Inspection-Results/43nn-pn8j))
 
-04/09: [High Dimensional Data Visualization](https://docs.google.com/presentation/d/1qVnco0JfMlUJsA6NU3nm3DqybTutU17Gnu9UVaL0E4g/edit?usp=sharing) ([in-class notebook](https://github.com/nyuvis/visual_analytics_course/blob/master/labs/lab7_high_dimension/hd_vis_inClass.ipynb))([data](https://archive.ics.uci.edu/ml/datasets/Communities+and+Crime))
+04/16: High Dimensional Data Visualization ([in-class notebook](https://github.com/nyuvis/visual_analytics_course/blob/master/labs/lab7_high_dimension/hd_vis_inClass.ipynb))([data](https://archive.ics.uci.edu/ml/datasets/Communities+and+Crime))
