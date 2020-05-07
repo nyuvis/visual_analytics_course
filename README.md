@@ -53,4 +53,4 @@ For help with labs and projects, reach out via email.
 
 04/23: High Dimensional Data Visualization - Clustering and Projection ([in-class notebook](https://github.com/nyuvis/visual_analytics_course/blob/master/labs/lab8_hd_part2/hd_vis_inClass_part2.ipynb))
 
-04/30: High Dimensional Data Visualization - Correlation and Relevance ([notebook](https://github.com/nyuvis/visual_analytics_course/blob/master/labs/lab8_hd_part2/hd_correlation_relevance.ipynb))
+05/04: High Dimensional Data Visualization - Correlation and Relevance ([notebook](https://github.com/nyuvis/visual_analytics_course/blob/master/labs/lab9_hd_part3/hd_correlation_relevance.ipynb))
