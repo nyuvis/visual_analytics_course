@@ -55,5 +55,5 @@ For help with labs and projects, reach out via email.
 
 05/04: High Dimensional Data Visualization - Correlation and Relevance ([notebook](https://github.com/nyuvis/visual_analytics_course/blob/master/labs/lab9_hd_part3/hd_correlation_relevance.ipynb))
 
-05/07: Text Data Visualization ([data prepare](https://github.com/nyuvis/visual_analytics_course/blob/master/labs/lab10_text/VoxDataPrepare.ipynb), [in-class notebook](https://github.com/nyuvis/visual_analytics_course/blob/master/labs/lab10_text/text_vis_inClass.ipynb), [complete notebook](https://github.com/nyuvis/visual_analytics_course/blob/master/labs/lab10_text/text_vis_complete.ipynb))
+05/07: Text Data Visualization ([data prepare](https://github.com/nyuvis/visual_analytics_course/blob/master/labs/lab10_text/VoxDataPrepare.ipynb), [in-class notebook](https://github.com/nyuvis/visual_analytics_course/blob/master/labs/lab10_text/text_vis_inClass.ipynb), [updated notebook](https://github.com/nyuvis/visual_analytics_course/blob/master/labs/lab10_text/text_vis_updated.ipynb))
 
