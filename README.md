@@ -6,7 +6,6 @@ This is the github page for the labs and assignments covered by visual analytic 
 
 [Syllabus](https://docs.google.com/document/d/1iW3myLJUXqfOTKBdMSiO8fIGCb1TxJq1yEj0DgTE44Y/edit?usp=sharing)
 
-[Reading list]()
 
 #### Instructor
 
@@ -43,6 +42,8 @@ For help with labs and projects, reach out via email.
 
 - [Multidimenional Data](https://drive.google.com/open?id=1fuTFe_jdppkLFfLB1FFxsDxCzP0rPf9qxTFXTeiqo24)
 
+- [Text Data](https://docs.google.com/presentation/d/18ezEmG2spzuB94eZ5nqoq4iCv0byLwULrkYv7fLLfGs/edit?usp=sharing)
+
 
 ## Labs and Slides
 
@@ -64,5 +65,5 @@ For help with labs and projects, reach out via email.
 
 05/04: High Dimensional Data Visualization - Correlation and Relevance ([notebook](https://github.com/nyuvis/visual_analytics_course/blob/master/labs/lab9_hd_part3/hd_correlation_relevance.ipynb))
 
-05/07: Text Data Visualization ([data prepare](https://github.com/nyuvis/visual_analytics_course/blob/master/labs/lab10_text/VoxDataPrepare.ipynb), [in-class notebook](https://github.com/nyuvis/visual_analytics_course/blob/master/labs/lab10_text/text_vis_inClass.ipynb), [updated notebook](https://github.com/nyuvis/visual_analytics_course/blob/master/labs/lab10_text/text_vis_updated.ipynb))
+05/07: Text Data Visualization ([data preparation](https://github.com/nyuvis/visual_analytics_course/blob/master/labs/lab10_text/VoxDataPrepare.ipynb), [in-class notebook](https://github.com/nyuvis/visual_analytics_course/blob/master/labs/lab10_text/text_vis_inClass.ipynb), [updated notebook](https://github.com/nyuvis/visual_analytics_course/blob/master/labs/lab10_text/text_vis_updated.ipynb))
 
