@@ -29,11 +29,20 @@ Contact: junyuan@nyu.edu
 For help with labs and projects, reach out via email.
 
 ## Lecture Slides
-01/30: [What is Visual Analytics?](https://docs.google.com/presentation/d/1cOCapZ-CSJaRaKtbji6u5u1yWyfNXIv-kJd0Qhajcbw/edit?usp=sharing)
+- [What is Visual Analytics?](https://docs.google.com/presentation/d/1cOCapZ-CSJaRaKtbji6u5u1yWyfNXIv-kJd0Qhajcbw/edit?usp=sharing)
 
-02/06: [Analytical Processes](https://docs.google.com/presentation/d/1qnQQZAtTa6G5govAL9itfhJfhscc0_VfQonOGObhqkQ/edit?usp=sharing)
+- [Analytical Processes](https://docs.google.com/presentation/d/1qnQQZAtTa6G5govAL9itfhJfhscc0_VfQonOGObhqkQ/edit?usp=sharing)
 
-... (adding soon)
+- [Review Exercise: EDA](https://drive.google.com/open?id=1wQDb4y1Upjye_4-y8kV4sf7fDvul-LWoZIFRFWI6qUQ)
+
+- [Time-Oriented Data] (https://drive.google.com/open?id=1OdhG2XjCVxWuWTfDp82y0nrXCcjjbDrpOxYql_Agq1k)
+
+- [Geo-Oriented Data](https://drive.google.com/open?id=1UPCCCgvQ-DDj4vwUxEuoloJdca57iDBeN2NJp9lUaTI)
+
+- [Aggregated Statistics](https://drive.google.com/open?id=1dhIX_P9LxEGqrPNOUWo71Qrg0rgp8A_5HSdPb2itZb0)
+
+- [Multidimenional Data](https://drive.google.com/open?id=1fuTFe_jdppkLFfLB1FFxsDxCzP0rPf9qxTFXTeiqo24)
+
 
 ## Labs and Slides
 
