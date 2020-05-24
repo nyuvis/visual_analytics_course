@@ -35,7 +35,7 @@ For help with labs and projects, reach out via email.
 
 - [Review Exercise: EDA](https://drive.google.com/open?id=1wQDb4y1Upjye_4-y8kV4sf7fDvul-LWoZIFRFWI6qUQ)
 
-- [Time-Oriented Data] (https://drive.google.com/open?id=1OdhG2XjCVxWuWTfDp82y0nrXCcjjbDrpOxYql_Agq1k)
+- [Time-Oriented Data](https://drive.google.com/open?id=1OdhG2XjCVxWuWTfDp82y0nrXCcjjbDrpOxYql_Agq1k)
 
 - [Geo-Oriented Data](https://drive.google.com/open?id=1UPCCCgvQ-DDj4vwUxEuoloJdca57iDBeN2NJp9lUaTI)
 
